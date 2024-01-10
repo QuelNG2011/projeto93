@@ -1,0 +1,14 @@
+body{
+background-color: gray;
+}
+
+img:hover{
+    border-radius: 40px;
+}
+
+#camera
+{
+    width:360px;
+    height: 250px;
+    border:1px solid grey;
+}
